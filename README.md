@@ -15,5 +15,5 @@ sudo docker network create \
 you can add follow if portainer not accept fix IP
 ```
  --subnet=172.22.0.0/16 \
-  --gateway=172.22.0.1 \
+ --gateway=172.22.0.1 \
 ```
